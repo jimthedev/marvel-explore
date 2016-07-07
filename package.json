@@ -1,0 +1,26 @@
+{
+  "name": "marvel-explore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimthedev/marvel-explore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimthedev/marvel-explore/issues"
+  },
+  "homepage": "https://github.com/jimthedev/marvel-explore#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "js-md5": "^0.4.1"
+  }
+}
